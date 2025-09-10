@@ -1,0 +1,6 @@
+[build]
+  publish = "public"  # Esto es donde se almacenarán los archivos generados.
+  command = "quarto render"  # Este es el comando que ejecutará Quarto para generar los archivos HTML.
+
+[context.production.environment]
+  QUARTO_PATH = "/usr/local/bin/quarto"  # Esto indica a Netlify dónde encontrar Quarto (solo si no está en el PATH).
