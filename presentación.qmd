@@ -20,7 +20,6 @@ css: styles.css
 - Pretenciones
 - Bibliografía
 
----
 
 # Importancia
 
@@ -29,7 +28,6 @@ css: styles.css
 2. Corriente psicológica: Motivaciones, necesidades
 3. Corriente sociológica: Interacción factores internos y externos
 
----
 
 # Problema sociológico
 
@@ -37,33 +35,28 @@ css: styles.css
 - Valores culturales como mediadores para influir en las motivaciones de emprender (Ramirez, 2014)
 - Instituciones formales (normativa legal) e informales (comportamientos, ideas, creencias, actitudes y valores) (North, 1993)
 
----
 
 # 
 
 Una Sociedad que valora innovación, la asunción de riesgos y la independencia, tiene más probabilidades de generar actividad emprendedora (Marulanda et al., 2014)
 
----
 
 # Market Justice
 
 -Justica de mercado y justica política (Lane, 1986)
 - Market justice, religious orientation, and entrepreneurial attitudes (De Noble et al., 2007)
 
----
 
 # Pregunta de investigación tentativa
 
 ¿En qué medida la actitud/mentalidad emprendedora, se asocia con los valores de meritocracia y la justicia de mercado?
 
----
 
 # Objetivos
 
 - Construir la "mentalidad emprendedora"  basada en las percepciones sobre capacidad, oportunidades, intenciones y estatus de los emprendedores
 - Evaluar el impacto de la mentalidad emprendedora sobre la justicia de mercado y los valores meritocráticos en una muestra internacional
 
----
 
 # Pretensiones 
 
@@ -81,7 +74,6 @@ Una Sociedad que valora innovación, la asunción de riesgos y la independencia,
 
 - Lane, R. E. (1986). Market Justice, Political Justice. American Political Science Review, 80(2), 383-402. https://doi.org/10.2307/1958264
 
----
 
 # Referencias
 
@@ -95,7 +87,6 @@ Una Sociedad que valora innovación, la asunción de riesgos y la independencia,
 
 - Ramírez Gómez, M. A. (2013). Instituciones informales y actividad emprendedora una aproximación metodológica desde D. North.
 
----
 
 # Muchas gracias
 - Preguntas / Comentarios / Ideas
