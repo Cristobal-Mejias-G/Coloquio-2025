@@ -1,0 +1,92 @@
+---
+title: "Entrepreneurship & Market Justice"
+subtitle: "Seminario de grado 2025"
+author: "Cristóbal MejíaSS G."
+institute: "Departamento de Sociología, Universidad de Chile"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    transition-speed: slow
+css: styles.css
+---
+
+# Índice
+
+- Importancia: Corrientes de estudio
+- Pregunta de investigación
+- Objetivos
+- Pretenciones
+- Bibliografía
+
+
+# Importancia
+
+ - Corrientes (Montoya & Herrera, 2021)
+1. Corriente económica: Ganancias, riesgo, innovación
+2. Corriente psicológica: Motivaciones, necesidades
+3. Corriente sociológica: Interacción factores internos y externos
+
+
+# Problema sociológico
+
+- La familia y escuela (Hidalgo, 2014)
+- Valores culturales como mediadores para influir en las motivaciones de emprender (Ramirez, 2014)
+- Instituciones formales (normativa legal) e informales (comportamientos, ideas, creencias, actitudes y valores) (North, 1993)
+
+
+# 
+
+Una Sociedad que valora innovación, la asunción de riesgos y la independencia, tiene más probabilidades de generar actividad emprendedora (Marulanda et al., 2014)
+
+
+# Market Justice
+
+-Justica de mercado y justica política (Lane, 1986)
+- Market justice, religious orientation, and entrepreneurial attitudes (De Noble et al., 2007)
+
+
+# Pregunta de investigación tentativa
+
+¿En qué medida la actitud/mentalidad emprendedora, se asocia con los valores de meritocracia y la justicia de mercado?
+
+
+# Objetivos
+
+- Construir la "mentalidad emprendedora"  basada en las percepciones sobre capacidad, oportunidades, intenciones y estatus de los emprendedores
+- Evaluar el impacto de la mentalidad emprendedora sobre la justicia de mercado y los valores meritocráticos en una muestra internacional
+
+
+# Pretensiones 
+
+- Usar Global Entrepreneurship Monitor (GEM)
+- Crear índices a nivel de país
+- Poder establecer relaciones a través de la ISSP
+- Variables nivel 2 que puedan influir en estas relaciones
+- Variables políticas (desigualdad, identificación, percepción del Estado)
+
+# Referencias 
+
+- De Noble, A., Galbraith, C. S., Singh, G., & Stiles, C. H. (2007). Market justice, religious orientation, and entrepreneurial attitudes: An empirical study. *Journal of enterprising communities: people and places in the global economy, 1*(2), 121-134.
+
+- Hidalgo, L. F. (2014). La cultura del emprendimiento y su formación. *Revista Alternativas UCSG, 15*(1), 46-50.
+
+- Lane, R. E. (1986). Market Justice, Political Justice. American Political Science Review, 80(2), 383-402. https://doi.org/10.2307/1958264
+
+
+# Referencias
+
+- Marulanda Valencia, F. Á., Montoya Restrepo, I. A., & Vélez Restrepo, J. M. (2014). Teorías motivacionales en el estudio del emprendimiento. *Pensamiento & gestión, (36)*, 206-238.
+
+- Montoya, V. L. S., & Herrera, B. C. (2021). Pluralidad en las teorías del emprendimiento. *Revista Científica de FAREM-Estelí: Medio ambiente, tecnología y desarrollo humano, 76-95*.
+
+- North, Douglass. (1993). *Instituciones, cambio institucional y desempeño económico*, México: Fondo de Cultura Económica.
+
+# Referencia
+
+- Ramírez Gómez, M. A. (2013). Instituciones informales y actividad emprendedora una aproximación metodológica desde D. North.
+
+
+# Muchas gracias
+- Preguntas / Comentarios / Ideas
