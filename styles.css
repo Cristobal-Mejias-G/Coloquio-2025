@@ -1,0 +1,37 @@
+/* Fondo azul marino grisáceo */
+body, .reveal {
+  background-color: #1C2833; /* azul marino grisáceo */
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+/* Fondo también para las slides */
+.reveal .slides {
+  background-color: #1C2833;
+}
+
+/* Texto general en blanco humo */
+.reveal h2, 
+.reveal h3, 
+.reveal p, 
+.reveal li {
+  color: #F5F5F5; /* blanco humo */
+}
+
+/* Títulos principales (h1) en turquesa */
+.reveal h1 {
+  color: #1ABC9C; /* turquesa */
+}
+
+/* Autor e institución en blanco */
+.reveal .quarto-title-author,
+.reveal .quarto-title-affiliation {
+  color: #FFFFFF !important; /* blanco */
+}
+
+/* Opcional: enlaces en gris claro */
+.reveal a {
+  color: #BDC3C7;
+}
