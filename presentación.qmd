@@ -17,7 +17,7 @@ css: styles.css
 - Importancia: Corrientes de estudio
 - Pregunta de investigación
 - Objetivos
-- Pretenciones
+- Pretensiones
 - Bibliografía
 
 
