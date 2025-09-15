@@ -1,7 +1,7 @@
 ---
 title: "Entrepreneurship & Market Justice"
 subtitle: "Seminario de grado 2025"
-author: "Cristóbal MejíaSSS G."
+author: "Cristóbal Mejías G."
 institute: "Departamento de Sociología, Universidad de Chile"
 format:
   revealjs:
